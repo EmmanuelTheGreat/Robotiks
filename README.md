@@ -2,4 +2,7 @@
 This is the read me for the Robotik's project.
 Collabs:
 EmmanuelTheGreat
-michaelem2102
+michaelm2102
+corsb
+propermunch
+
